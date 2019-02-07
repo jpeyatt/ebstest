@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/8a104d55-2520-480f-b902-a0718fda0c8f/resourceGroups/ebstest/providers/Microsoft.Web/sites/ebstest",
-    "appService.deploySubpath": "dist"
-}
