@@ -161,7 +161,7 @@ module.exports = ""
 /***/ "./src/app/home/home.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<h3>This is the Homepage</h3>"
+module.exports = "<h3>This is the Homepage</h3>\n\n<script type=\"text/javascript\" src=\"//static.criteo.net/js/ld/ld.js\" async=\"true\"></script>\n<script type=\"text/javascript\">\n  window.criteo_q = window.criteo_q || [];\n  window.criteo_q.push(\n          { event: \"setAccount\", account: 23264 },\n          { event: \"setEmail\", email: \"\" },\n          { event: \"setSiteType\", type: \"d\" },\n          { event: \"viewHome\" }\n  );\n  </script>"
 
 /***/ }),
 
@@ -211,7 +211,7 @@ module.exports = ""
 /***/ "./src/app/products/products.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<h3>This is the Product page</h3>"
+module.exports = "<h3>This is the Product page</h3>\n\n<script type=\"text/javascript\" src=\"//static.criteo.net/js/ld/ld.js\" async=\"true\"></script>\n<script type=\"text/javascript\">\n  window.criteo_q = window.criteo_q || [];\n  window.criteo_q.push(\n          { event: \"setAccount\", account: 23264 },\n          { event: \"setEmail\", email: \"\" },\n          { event: \"setSiteType\", type: \"d\" },\n          { event: \"viewHome\" }\n  );\n  </script>"
 
 /***/ }),
 
